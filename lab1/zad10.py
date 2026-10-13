@@ -1,5 +1,3 @@
-
-
 def sprawdzenie_oceny(liczba_punktow):
     ocena = 0
     if liczba_puntkow >= 0 and liczba_puntkow < 50:
