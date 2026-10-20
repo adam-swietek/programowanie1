@@ -10,6 +10,8 @@ while True:
     if wybor == 0:
         print('Do widzenia!')
         break
+    elif wybor < 0 or wybor > 3:
+        print('Niepoprawny numer opcji')
     else:
         if wybor == 1:
             for produkt, ile in magazyn.items():
