@@ -2,3 +2,4 @@
 wyklady
 *.zip
 .idea
+.venv
