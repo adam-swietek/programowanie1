@@ -14,7 +14,8 @@ df['Wartość'] = df['Cena'] * df['Ilość']
 
 print(df)
 print('\n')
-print(df[df['Cena'] > 100])
+print('Produkty powyżej 100 zł:')
+print(df[df['Cena'] > 100]['Produkt'])
 print('\n')
 print(f'Wartość magazynu: {df["Wartość"].sum()}')
 print(f'Średnia cena: {df["Cena"].mean()}')
