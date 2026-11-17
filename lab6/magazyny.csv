@@ -1,0 +1,121 @@
+﻿magazyn,miasto,wojewodztwo,produkty,typ_magazynu,rok_otwarcia,powierzchnia_m2,liczba_pracownikow,data_przegladu,uwagi
+M-001,Warszawa,mazowieckie,418,lokalny,2011,4300,55,2026-06-17,kontrola okresowa
+M-002,Radom,mazowieckie,361,regionalny,2023,300,68,2026-04-23,brak
+M-003,Płock,mazowieckie,674,centralny,2021,4250,77,2026-06-17,brak
+M-004,Siedlce,mazowieckie,503,centralny,2021,3000,75,2026-06-18,inwentaryzacja
+M-005,Ostrołęka,mazowieckie,452,centralny,2006,1650,77,2026-07-13,inwentaryzacja
+M-006,Warszawa,mazowieckie,577,centralny,2008,3200,30,2026-03-08,kontrola okresowa
+M-007,Radom,mazowieckie,683,lokalny,2005,1600,54,2026-08-23,brak
+M-008,Płock,mazowieckie,441,lokalny,2009,1800,72,2026-09-08,inwentaryzacja
+M-009,Siedlce,mazowieckie,629,lokalny,2010,4000,14,2026-04-15,brak
+M-010,Ostrołęka,mazowieckie,212,regionalny,2025,250,57,2026-02-06,kontrola okresowa
+M-011,Kraków,małopolskie,479,centralny,2015,2100,84,2026-07-27,brak
+M-012,Tarnów,małopolskie,248,regionalny,2017,1000,63,2026-09-21,brak
+M-013,Nowy Sącz,małopolskie,517,regionalny,2017,2800,83,2026-09-08,inwentaryzacja
+M-014,Oświęcim,małopolskie,150,lokalny,2006,300,12,2026-07-24,brak
+M-015,Chrzanów,małopolskie,555,lokalny,2010,400,81,2026-04-11,inwentaryzacja
+M-016,Kraków,małopolskie,426,centralny,2011,2550,85,2026-10-02,kontrola okresowa
+M-017,Tarnów,małopolskie,417,regionalny,2023,2150,52,2026-07-24,kontrola okresowa
+M-018,Nowy Sącz,małopolskie,484,lokalny,2005,4550,80,2026-05-01,kontrola okresowa
+M-019,Oświęcim,małopolskie,456,lokalny,2007,3550,18,2026-09-13,brak
+M-020,Chrzanów,małopolskie,342,centralny,2023,2950,75,2026-01-04,kontrola okresowa
+M-021,Katowice,śląskie,576,regionalny,2025,4650,64,2026-04-17,kontrola okresowa
+M-022,Gliwice,śląskie,344,regionalny,2007,2450,85,2026-01-12,kontrola okresowa
+M-023,Rybnik,śląskie,556,regionalny,2024,450,30,2026-02-23,inwentaryzacja
+M-024,Częstochowa,śląskie,528,lokalny,2016,1100,9,2026-09-07,inwentaryzacja
+M-025,Bielsko-Biała,śląskie,472,centralny,2012,4800,36,2026-10-03,kontrola okresowa
+M-026,Katowice,śląskie,555,centralny,2018,1950,68,2026-06-15,brak
+M-027,Gliwice,śląskie,419,regionalny,2020,2450,12,2026-10-11,brak
+M-028,Rybnik,śląskie,552,centralny,2025,4300,24,2026-05-28,brak
+M-029,Częstochowa,śląskie,352,lokalny,2009,2100,11,2026-08-17,inwentaryzacja
+M-030,Bielsko-Biała,śląskie,651,centralny,2008,600,74,2026-07-13,inwentaryzacja
+M-031,Wrocław,dolnośląskie,258,centralny,2012,1750,22,2026-07-22,kontrola okresowa
+M-032,Legnica,dolnośląskie,318,lokalny,2012,2500,67,2026-07-10,brak
+M-033,Wałbrzych,dolnośląskie,541,centralny,2016,2250,34,2026-04-02,inwentaryzacja
+M-034,Jelenia Góra,dolnośląskie,452,regionalny,2022,4650,40,2026-04-10,inwentaryzacja
+M-035,Lubin,dolnośląskie,432,lokalny,2018,1700,90,2026-09-01,brak
+M-036,Wrocław,dolnośląskie,468,lokalny,2010,2150,83,2026-01-24,brak
+M-037,Legnica,dolnośląskie,586,regionalny,2018,3100,47,2026-04-17,kontrola okresowa
+M-038,Wałbrzych,dolnośląskie,252,regionalny,2008,1100,41,2026-03-08,inwentaryzacja
+M-039,Jelenia Góra,dolnośląskie,675,regionalny,2019,600,88,2026-05-02,brak
+M-040,Lubin,dolnośląskie,472,regionalny,2023,2950,20,2026-07-10,inwentaryzacja
+M-041,Poznań,wielkopolskie,341,regionalny,2017,1200,48,2026-02-28,inwentaryzacja
+M-042,Kalisz,wielkopolskie,269,centralny,2024,3350,4,2026-08-21,inwentaryzacja
+M-043,Konin,wielkopolskie,294,regionalny,2022,300,17,2026-04-20,brak
+M-044,Piła,wielkopolskie,642,centralny,2008,1450,69,2026-06-10,kontrola okresowa
+M-045,Leszno,wielkopolskie,501,centralny,2013,2350,89,2026-06-23,inwentaryzacja
+M-046,Poznań,wielkopolskie,163,lokalny,2016,2800,15,2026-01-20,kontrola okresowa
+M-047,Kalisz,wielkopolskie,164,centralny,2011,2450,26,2026-05-28,inwentaryzacja
+M-048,Konin,wielkopolskie,286,regionalny,2020,2700,49,2026-09-20,brak
+M-049,Piła,wielkopolskie,393,regionalny,2021,3300,6,2026-03-13,brak
+M-050,Leszno,wielkopolskie,446,lokalny,2013,2650,39,2026-07-14,inwentaryzacja
+M-051,Gdańsk,pomorskie,665,centralny,2011,2650,36,2026-08-14,brak
+M-052,Gdynia,pomorskie,264,lokalny,2013,4200,66,2026-08-04,kontrola okresowa
+M-053,Słupsk,pomorskie,286,centralny,2019,950,44,2026-01-06,inwentaryzacja
+M-054,Tczew,pomorskie,613,lokalny,2021,700,7,2026-03-25,inwentaryzacja
+M-055,Wejherowo,pomorskie,252,regionalny,2009,2600,66,2026-10-10,brak
+M-056,Gdańsk,pomorskie,320,lokalny,2014,3650,23,2026-02-06,brak
+M-057,Gdynia,pomorskie,614,centralny,2021,4450,12,2026-09-01,kontrola okresowa
+M-058,Słupsk,pomorskie,496,lokalny,2014,1600,59,2026-07-05,kontrola okresowa
+M-059,Tczew,pomorskie,504,lokalny,2018,500,31,2026-01-12,inwentaryzacja
+M-060,Wejherowo,pomorskie,313,lokalny,2008,2600,62,2026-07-27,kontrola okresowa
+M-061,Łódź,łódzkie,516,lokalny,2010,850,62,2026-07-04,inwentaryzacja
+M-062,Piotrków Trybunalski,łódzkie,290,lokalny,2017,3400,8,2026-06-24,kontrola okresowa
+M-063,Pabianice,łódzkie,168,regionalny,2009,4000,50,2026-07-20,brak
+M-064,Zgierz,łódzkie,190,centralny,2007,1550,26,2026-03-23,brak
+M-065,Skierniewice,łódzkie,376,lokalny,2012,2850,76,2026-05-05,inwentaryzacja
+M-066,Łódź,łódzkie,154,centralny,2013,2600,64,2026-08-16,inwentaryzacja
+M-067,Piotrków Trybunalski,łódzkie,207,centralny,2005,2700,41,2026-08-21,kontrola okresowa
+M-068,Pabianice,łódzkie,314,lokalny,2016,1100,74,2026-06-05,inwentaryzacja
+M-069,Zgierz,łódzkie,210,centralny,2010,4050,74,2026-10-21,kontrola okresowa
+M-070,Skierniewice,łódzkie,335,regionalny,2016,2650,75,2026-07-02,brak
+M-071,Bydgoszcz,kujawsko-pomorskie,498,lokalny,2015,3800,37,2026-04-18,kontrola okresowa
+M-072,Toruń,kujawsko-pomorskie,134,lokalny,2016,4300,87,2026-08-25,kontrola okresowa
+M-073,Włocławek,kujawsko-pomorskie,335,lokalny,2006,2850,6,2026-07-07,kontrola okresowa
+M-074,Grudziądz,kujawsko-pomorskie,530,lokalny,2017,1650,60,2026-08-03,kontrola okresowa
+M-075,Inowrocław,kujawsko-pomorskie,191,centralny,2006,1900,49,2026-01-07,inwentaryzacja
+M-076,Bydgoszcz,kujawsko-pomorskie,223,lokalny,2014,2700,87,2026-04-08,kontrola okresowa
+M-077,Toruń,kujawsko-pomorskie,438,lokalny,2006,3000,53,2026-05-01,kontrola okresowa
+M-078,Włocławek,kujawsko-pomorskie,436,lokalny,2024,4250,77,2026-10-18,kontrola okresowa
+M-079,Grudziądz,kujawsko-pomorskie,287,centralny,2014,4350,41,2026-09-17,kontrola okresowa
+M-080,Inowrocław,kujawsko-pomorskie,274,lokalny,2024,3350,12,2026-08-10,kontrola okresowa
+M-081,Lublin,lubelskie,428,centralny,2008,3350,20,2026-06-03,kontrola okresowa
+M-082,Chełm,lubelskie,285,centralny,2010,2900,39,2026-06-16,kontrola okresowa
+M-083,Zamość,lubelskie,211,regionalny,2008,3500,24,2026-07-11,kontrola okresowa
+M-084,Puławy,lubelskie,271,centralny,2015,4050,65,2026-05-25,inwentaryzacja
+M-085,Biała Podlaska,lubelskie,271,centralny,2006,1850,85,2026-04-26,inwentaryzacja
+M-086,Lublin,lubelskie,423,regionalny,2006,1250,8,2026-02-13,kontrola okresowa
+M-087,Chełm,lubelskie,162,centralny,2014,4250,61,2026-03-25,inwentaryzacja
+M-088,Zamość,lubelskie,302,lokalny,2009,4050,40,2026-02-25,brak
+M-089,Puławy,lubelskie,338,regionalny,2018,4350,8,2026-09-24,inwentaryzacja
+M-090,Biała Podlaska,lubelskie,372,centralny,2018,750,40,2026-08-03,inwentaryzacja
+M-091,Rzeszów,podkarpackie,214,regionalny,2012,3650,52,2026-03-07,brak
+M-092,Przemyśl,podkarpackie,230,lokalny,2022,3700,72,2026-04-03,brak
+M-093,Krosno,podkarpackie,263,centralny,2024,450,56,2026-04-11,inwentaryzacja
+M-094,Mielec,podkarpackie,269,lokalny,2022,2250,70,2026-01-22,kontrola okresowa
+M-095,Stalowa Wola,podkarpackie,402,regionalny,2016,1800,75,2026-07-01,brak
+M-096,Rzeszów,podkarpackie,357,centralny,2022,4000,16,2026-02-21,kontrola okresowa
+M-097,Przemyśl,podkarpackie,318,centralny,2020,4100,12,2026-02-07,inwentaryzacja
+M-098,Krosno,podkarpackie,201,regionalny,2016,3600,42,2026-01-21,kontrola okresowa
+M-099,Mielec,podkarpackie,304,regionalny,2025,1200,31,2026-04-24,inwentaryzacja
+M-100,Stalowa Wola,podkarpackie,204,lokalny,2014,4850,42,2026-01-16,kontrola okresowa
+M-101,Opole,opolskie,188,lokalny,2006,1050,88,2026-08-09,kontrola okresowa
+M-102,Nysa,opolskie,109,centralny,2010,950,23,2026-07-07,kontrola okresowa
+M-103,Brzeg,opolskie,131,lokalny,2018,800,5,2026-06-05,brak
+M-104,Kędzierzyn-Koźle,opolskie,260,centralny,2024,3800,63,2026-02-26,brak
+M-105,Kluczbork,opolskie,390,lokalny,2025,1700,40,2026-04-14,inwentaryzacja
+M-106,Opole,opolskie,194,centralny,2016,1800,27,2026-05-07,inwentaryzacja
+M-107,Nysa,opolskie,116,lokalny,2018,950,85,2026-01-24,brak
+M-108,Brzeg,opolskie,176,centralny,2024,4750,19,2026-08-07,inwentaryzacja
+M-109,Kędzierzyn-Koźle,opolskie,114,regionalny,2010,3550,13,2026-10-19,inwentaryzacja
+M-110,Kluczbork,opolskie,336,regionalny,2014,1650,54,2026-05-07,kontrola okresowa
+M-111,Szczecin,zachodniopomorskie,310,lokalny,2025,4750,86,2026-01-24,brak
+M-112,Koszalin,zachodniopomorskie,285,regionalny,2007,2400,13,2026-04-04,kontrola okresowa
+M-113,Stargard,zachodniopomorskie,289,centralny,2024,2150,86,2026-07-03,brak
+M-114,Świnoujście,zachodniopomorskie,472,lokalny,2021,3600,18,2026-03-16,inwentaryzacja
+M-115,Kołobrzeg,zachodniopomorskie,489,regionalny,2025,1800,74,2026-07-15,inwentaryzacja
+M-116,Szczecin,zachodniopomorskie,233,centralny,2010,4450,86,2026-08-03,brak
+M-117,Koszalin,zachodniopomorskie,310,centralny,2011,3650,82,2026-04-19,inwentaryzacja
+M-118,Stargard,zachodniopomorskie,442,centralny,2019,950,83,2026-10-27,inwentaryzacja
+M-119,Świnoujście,zachodniopomorskie,471,lokalny,2023,3450,53,2026-09-11,kontrola okresowa
+M-120,Kołobrzeg,zachodniopomorskie,412,regionalny,2013,3900,17,2026-01-27,inwentaryzacja

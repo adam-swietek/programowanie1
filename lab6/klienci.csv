@@ -1,0 +1,181 @@
+﻿klient,miasto,wojewodztwo,zamowienia,typ_klienta,rok_rejestracji,kanal_kontaktu,status_konta,liczba_zgloszen,uwagi
+K-001,Warszawa,mazowieckie,207,firmowy,2020,e-mail,aktywny,10,brak
+K-002,Radom,mazowieckie,623,indywidualny,2023,e-mail,aktywny,5,wymaga aktualizacji
+K-003,Płock,mazowieckie,426,indywidualny,2024,e-mail,aktywny,2,wymaga aktualizacji
+K-004,Siedlce,mazowieckie,568,firmowy,2019,telefon,czasowo nieaktywny,4,potwierdzony adres
+K-005,Ostrołęka,mazowieckie,355,firmowy,2016,telefon,aktywny,3,potwierdzony adres
+K-006,Warszawa,mazowieckie,410,firmowy,2022,formularz,aktywny,10,potwierdzony adres
+K-007,Radom,mazowieckie,451,indywidualny,2015,e-mail,aktywny,9,brak
+K-008,Płock,mazowieckie,219,indywidualny,2025,e-mail,czasowo nieaktywny,2,brak
+K-009,Siedlce,mazowieckie,132,firmowy,2016,telefon,aktywny,3,brak
+K-010,Ostrołęka,mazowieckie,576,firmowy,2022,telefon,czasowo nieaktywny,0,brak
+K-011,Warszawa,mazowieckie,357,indywidualny,2022,e-mail,czasowo nieaktywny,8,wymaga aktualizacji
+K-012,Radom,mazowieckie,130,firmowy,2023,telefon,aktywny,6,wymaga aktualizacji
+K-013,Płock,mazowieckie,543,firmowy,2022,telefon,aktywny,6,potwierdzony adres
+K-014,Siedlce,mazowieckie,155,indywidualny,2017,telefon,aktywny,11,potwierdzony adres
+K-015,Ostrołęka,mazowieckie,181,firmowy,2016,e-mail,aktywny,3,brak
+K-016,Kraków,małopolskie,460,firmowy,2024,telefon,czasowo nieaktywny,0,potwierdzony adres
+K-017,Tarnów,małopolskie,170,firmowy,2015,telefon,aktywny,2,potwierdzony adres
+K-018,Nowy Sącz,małopolskie,500,indywidualny,2017,telefon,aktywny,6,brak
+K-019,Oświęcim,małopolskie,410,indywidualny,2015,telefon,aktywny,12,brak
+K-020,Chrzanów,małopolskie,337,firmowy,2026,e-mail,aktywny,12,brak
+K-021,Kraków,małopolskie,150,indywidualny,2020,telefon,czasowo nieaktywny,5,brak
+K-022,Tarnów,małopolskie,472,firmowy,2026,telefon,czasowo nieaktywny,9,potwierdzony adres
+K-023,Nowy Sącz,małopolskie,461,firmowy,2024,e-mail,aktywny,0,potwierdzony adres
+K-024,Oświęcim,małopolskie,361,firmowy,2016,telefon,aktywny,0,wymaga aktualizacji
+K-025,Chrzanów,małopolskie,445,indywidualny,2024,e-mail,czasowo nieaktywny,5,brak
+K-026,Kraków,małopolskie,103,firmowy,2021,formularz,aktywny,3,wymaga aktualizacji
+K-027,Tarnów,małopolskie,167,firmowy,2023,telefon,aktywny,5,brak
+K-028,Nowy Sącz,małopolskie,463,indywidualny,2016,telefon,aktywny,6,wymaga aktualizacji
+K-029,Oświęcim,małopolskie,359,indywidualny,2023,telefon,aktywny,11,wymaga aktualizacji
+K-030,Chrzanów,małopolskie,503,firmowy,2019,formularz,czasowo nieaktywny,2,brak
+K-031,Katowice,śląskie,483,firmowy,2021,e-mail,aktywny,0,potwierdzony adres
+K-032,Gliwice,śląskie,558,indywidualny,2022,formularz,aktywny,11,wymaga aktualizacji
+K-033,Rybnik,śląskie,284,indywidualny,2015,telefon,czasowo nieaktywny,5,wymaga aktualizacji
+K-034,Częstochowa,śląskie,473,firmowy,2024,telefon,aktywny,5,brak
+K-035,Bielsko-Biała,śląskie,337,indywidualny,2021,formularz,aktywny,12,wymaga aktualizacji
+K-036,Katowice,śląskie,575,indywidualny,2018,formularz,aktywny,2,potwierdzony adres
+K-037,Gliwice,śląskie,163,firmowy,2019,e-mail,aktywny,9,potwierdzony adres
+K-038,Rybnik,śląskie,358,indywidualny,2020,e-mail,aktywny,11,potwierdzony adres
+K-039,Częstochowa,śląskie,559,firmowy,2017,formularz,aktywny,6,wymaga aktualizacji
+K-040,Bielsko-Biała,śląskie,148,indywidualny,2015,telefon,aktywny,12,wymaga aktualizacji
+K-041,Katowice,śląskie,374,firmowy,2022,formularz,aktywny,1,potwierdzony adres
+K-042,Gliwice,śląskie,301,firmowy,2017,e-mail,aktywny,11,potwierdzony adres
+K-043,Rybnik,śląskie,543,firmowy,2026,e-mail,aktywny,2,brak
+K-044,Częstochowa,śląskie,140,firmowy,2026,telefon,aktywny,7,wymaga aktualizacji
+K-045,Bielsko-Biała,śląskie,257,indywidualny,2023,e-mail,aktywny,2,wymaga aktualizacji
+K-046,Wrocław,dolnośląskie,207,indywidualny,2016,telefon,aktywny,0,wymaga aktualizacji
+K-047,Legnica,dolnośląskie,402,firmowy,2017,formularz,aktywny,0,wymaga aktualizacji
+K-048,Wałbrzych,dolnośląskie,248,firmowy,2025,formularz,czasowo nieaktywny,7,brak
+K-049,Jelenia Góra,dolnośląskie,528,indywidualny,2026,telefon,czasowo nieaktywny,1,potwierdzony adres
+K-050,Lubin,dolnośląskie,331,firmowy,2025,formularz,aktywny,4,potwierdzony adres
+K-051,Wrocław,dolnośląskie,193,firmowy,2022,telefon,aktywny,7,wymaga aktualizacji
+K-052,Legnica,dolnośląskie,134,indywidualny,2025,formularz,aktywny,6,potwierdzony adres
+K-053,Wałbrzych,dolnośląskie,427,firmowy,2020,formularz,aktywny,6,potwierdzony adres
+K-054,Jelenia Góra,dolnośląskie,233,indywidualny,2024,e-mail,aktywny,7,brak
+K-055,Lubin,dolnośląskie,417,firmowy,2021,e-mail,czasowo nieaktywny,3,brak
+K-056,Wrocław,dolnośląskie,259,indywidualny,2023,formularz,aktywny,10,wymaga aktualizacji
+K-057,Legnica,dolnośląskie,265,firmowy,2026,formularz,aktywny,8,brak
+K-058,Wałbrzych,dolnośląskie,463,firmowy,2019,formularz,aktywny,6,potwierdzony adres
+K-059,Jelenia Góra,dolnośląskie,159,indywidualny,2026,e-mail,czasowo nieaktywny,12,potwierdzony adres
+K-060,Lubin,dolnośląskie,436,firmowy,2020,telefon,aktywny,10,wymaga aktualizacji
+K-061,Poznań,wielkopolskie,386,firmowy,2017,telefon,aktywny,11,brak
+K-062,Kalisz,wielkopolskie,263,firmowy,2015,formularz,aktywny,6,potwierdzony adres
+K-063,Konin,wielkopolskie,404,indywidualny,2015,e-mail,aktywny,12,wymaga aktualizacji
+K-064,Piła,wielkopolskie,497,firmowy,2024,telefon,aktywny,7,brak
+K-065,Leszno,wielkopolskie,315,firmowy,2017,telefon,aktywny,5,wymaga aktualizacji
+K-066,Poznań,wielkopolskie,372,indywidualny,2025,formularz,czasowo nieaktywny,3,wymaga aktualizacji
+K-067,Kalisz,wielkopolskie,164,firmowy,2023,telefon,aktywny,2,potwierdzony adres
+K-068,Konin,wielkopolskie,319,indywidualny,2015,formularz,aktywny,7,potwierdzony adres
+K-069,Piła,wielkopolskie,398,indywidualny,2020,formularz,czasowo nieaktywny,7,brak
+K-070,Leszno,wielkopolskie,308,firmowy,2023,e-mail,aktywny,6,wymaga aktualizacji
+K-071,Poznań,wielkopolskie,138,firmowy,2016,telefon,aktywny,0,brak
+K-072,Kalisz,wielkopolskie,467,indywidualny,2017,formularz,aktywny,5,potwierdzony adres
+K-073,Konin,wielkopolskie,301,firmowy,2021,e-mail,aktywny,5,brak
+K-074,Piła,wielkopolskie,104,indywidualny,2026,telefon,aktywny,0,potwierdzony adres
+K-075,Leszno,wielkopolskie,470,firmowy,2016,e-mail,aktywny,10,potwierdzony adres
+K-076,Gdańsk,pomorskie,477,firmowy,2015,formularz,aktywny,12,brak
+K-077,Gdynia,pomorskie,443,indywidualny,2018,formularz,aktywny,1,wymaga aktualizacji
+K-078,Słupsk,pomorskie,178,indywidualny,2022,telefon,aktywny,8,wymaga aktualizacji
+K-079,Tczew,pomorskie,257,firmowy,2022,telefon,aktywny,5,brak
+K-080,Wejherowo,pomorskie,123,indywidualny,2018,telefon,aktywny,2,brak
+K-081,Gdańsk,pomorskie,108,indywidualny,2018,formularz,aktywny,5,potwierdzony adres
+K-082,Gdynia,pomorskie,175,indywidualny,2025,telefon,aktywny,11,potwierdzony adres
+K-083,Słupsk,pomorskie,253,firmowy,2022,e-mail,aktywny,6,potwierdzony adres
+K-084,Tczew,pomorskie,123,firmowy,2021,formularz,aktywny,3,wymaga aktualizacji
+K-085,Wejherowo,pomorskie,337,indywidualny,2026,e-mail,aktywny,8,wymaga aktualizacji
+K-086,Gdańsk,pomorskie,375,firmowy,2024,e-mail,aktywny,10,wymaga aktualizacji
+K-087,Gdynia,pomorskie,307,firmowy,2025,e-mail,aktywny,5,potwierdzony adres
+K-088,Słupsk,pomorskie,445,firmowy,2021,telefon,aktywny,5,wymaga aktualizacji
+K-089,Tczew,pomorskie,148,firmowy,2018,formularz,czasowo nieaktywny,12,potwierdzony adres
+K-090,Wejherowo,pomorskie,122,indywidualny,2022,e-mail,aktywny,12,brak
+K-091,Łódź,łódzkie,423,indywidualny,2024,telefon,aktywny,6,wymaga aktualizacji
+K-092,Piotrków Trybunalski,łódzkie,289,indywidualny,2022,telefon,aktywny,10,potwierdzony adres
+K-093,Pabianice,łódzkie,295,firmowy,2018,formularz,aktywny,7,wymaga aktualizacji
+K-094,Zgierz,łódzkie,264,indywidualny,2016,e-mail,czasowo nieaktywny,8,potwierdzony adres
+K-095,Skierniewice,łódzkie,208,firmowy,2018,formularz,aktywny,9,wymaga aktualizacji
+K-096,Łódź,łódzkie,216,firmowy,2026,e-mail,aktywny,10,wymaga aktualizacji
+K-097,Piotrków Trybunalski,łódzkie,165,firmowy,2020,formularz,aktywny,10,potwierdzony adres
+K-098,Pabianice,łódzkie,307,indywidualny,2016,formularz,aktywny,0,brak
+K-099,Zgierz,łódzkie,443,indywidualny,2017,telefon,czasowo nieaktywny,6,potwierdzony adres
+K-100,Skierniewice,łódzkie,399,indywidualny,2026,formularz,czasowo nieaktywny,2,wymaga aktualizacji
+K-101,Łódź,łódzkie,178,indywidualny,2026,telefon,aktywny,4,potwierdzony adres
+K-102,Piotrków Trybunalski,łódzkie,206,indywidualny,2023,formularz,aktywny,5,potwierdzony adres
+K-103,Pabianice,łódzkie,277,indywidualny,2023,formularz,aktywny,9,wymaga aktualizacji
+K-104,Zgierz,łódzkie,350,indywidualny,2022,formularz,aktywny,9,brak
+K-105,Skierniewice,łódzkie,298,firmowy,2020,telefon,aktywny,10,brak
+K-106,Bydgoszcz,kujawsko-pomorskie,256,firmowy,2017,e-mail,czasowo nieaktywny,6,brak
+K-107,Toruń,kujawsko-pomorskie,144,firmowy,2015,formularz,aktywny,8,potwierdzony adres
+K-108,Włocławek,kujawsko-pomorskie,385,indywidualny,2016,formularz,aktywny,12,wymaga aktualizacji
+K-109,Grudziądz,kujawsko-pomorskie,244,indywidualny,2020,e-mail,aktywny,0,wymaga aktualizacji
+K-110,Inowrocław,kujawsko-pomorskie,228,indywidualny,2020,e-mail,aktywny,11,wymaga aktualizacji
+K-111,Bydgoszcz,kujawsko-pomorskie,190,indywidualny,2021,e-mail,aktywny,7,brak
+K-112,Toruń,kujawsko-pomorskie,167,indywidualny,2024,telefon,aktywny,2,wymaga aktualizacji
+K-113,Włocławek,kujawsko-pomorskie,104,firmowy,2025,formularz,aktywny,6,potwierdzony adres
+K-114,Grudziądz,kujawsko-pomorskie,286,firmowy,2015,telefon,aktywny,6,wymaga aktualizacji
+K-115,Inowrocław,kujawsko-pomorskie,246,firmowy,2017,formularz,czasowo nieaktywny,10,brak
+K-116,Bydgoszcz,kujawsko-pomorskie,329,firmowy,2017,formularz,aktywny,4,brak
+K-117,Toruń,kujawsko-pomorskie,212,firmowy,2019,e-mail,aktywny,6,brak
+K-118,Włocławek,kujawsko-pomorskie,184,firmowy,2024,telefon,aktywny,7,wymaga aktualizacji
+K-119,Grudziądz,kujawsko-pomorskie,217,indywidualny,2025,telefon,czasowo nieaktywny,2,brak
+K-120,Inowrocław,kujawsko-pomorskie,250,firmowy,2019,e-mail,aktywny,12,brak
+K-121,Lublin,lubelskie,125,indywidualny,2025,e-mail,aktywny,12,potwierdzony adres
+K-122,Chełm,lubelskie,272,indywidualny,2021,e-mail,aktywny,7,brak
+K-123,Zamość,lubelskie,184,indywidualny,2022,formularz,aktywny,2,potwierdzony adres
+K-124,Puławy,lubelskie,386,indywidualny,2022,e-mail,czasowo nieaktywny,8,potwierdzony adres
+K-125,Biała Podlaska,lubelskie,322,indywidualny,2026,telefon,aktywny,10,potwierdzony adres
+K-126,Lublin,lubelskie,88,firmowy,2026,e-mail,aktywny,0,brak
+K-127,Chełm,lubelskie,178,firmowy,2018,telefon,aktywny,10,brak
+K-128,Zamość,lubelskie,79,indywidualny,2021,formularz,aktywny,3,brak
+K-129,Puławy,lubelskie,150,indywidualny,2023,e-mail,aktywny,12,potwierdzony adres
+K-130,Biała Podlaska,lubelskie,214,firmowy,2023,e-mail,aktywny,11,brak
+K-131,Lublin,lubelskie,362,indywidualny,2023,formularz,aktywny,4,wymaga aktualizacji
+K-132,Chełm,lubelskie,87,firmowy,2024,formularz,czasowo nieaktywny,10,wymaga aktualizacji
+K-133,Zamość,lubelskie,104,firmowy,2017,formularz,aktywny,8,potwierdzony adres
+K-134,Puławy,lubelskie,201,firmowy,2018,e-mail,aktywny,8,potwierdzony adres
+K-135,Biała Podlaska,lubelskie,268,firmowy,2017,e-mail,aktywny,7,brak
+K-136,Rzeszów,podkarpackie,318,indywidualny,2024,formularz,aktywny,10,potwierdzony adres
+K-137,Przemyśl,podkarpackie,229,indywidualny,2023,formularz,aktywny,9,brak
+K-138,Krosno,podkarpackie,163,indywidualny,2021,formularz,aktywny,12,wymaga aktualizacji
+K-139,Mielec,podkarpackie,312,firmowy,2018,e-mail,aktywny,10,potwierdzony adres
+K-140,Stalowa Wola,podkarpackie,329,firmowy,2023,e-mail,aktywny,2,wymaga aktualizacji
+K-141,Rzeszów,podkarpackie,212,indywidualny,2024,e-mail,aktywny,2,brak
+K-142,Przemyśl,podkarpackie,124,indywidualny,2015,formularz,aktywny,5,potwierdzony adres
+K-143,Krosno,podkarpackie,135,indywidualny,2015,formularz,aktywny,6,wymaga aktualizacji
+K-144,Mielec,podkarpackie,205,firmowy,2015,e-mail,aktywny,0,potwierdzony adres
+K-145,Stalowa Wola,podkarpackie,149,firmowy,2016,e-mail,aktywny,6,wymaga aktualizacji
+K-146,Rzeszów,podkarpackie,176,firmowy,2017,formularz,czasowo nieaktywny,8,potwierdzony adres
+K-147,Przemyśl,podkarpackie,291,indywidualny,2021,formularz,aktywny,9,potwierdzony adres
+K-148,Krosno,podkarpackie,260,firmowy,2021,formularz,czasowo nieaktywny,8,wymaga aktualizacji
+K-149,Mielec,podkarpackie,283,indywidualny,2019,e-mail,aktywny,12,wymaga aktualizacji
+K-150,Stalowa Wola,podkarpackie,102,indywidualny,2026,telefon,czasowo nieaktywny,5,potwierdzony adres
+K-151,Opole,opolskie,378,firmowy,2021,formularz,aktywny,8,brak
+K-152,Nysa,opolskie,175,indywidualny,2026,formularz,aktywny,5,potwierdzony adres
+K-153,Brzeg,opolskie,92,indywidualny,2016,e-mail,aktywny,4,brak
+K-154,Kędzierzyn-Koźle,opolskie,82,indywidualny,2015,telefon,aktywny,1,wymaga aktualizacji
+K-155,Kluczbork,opolskie,179,firmowy,2024,telefon,czasowo nieaktywny,11,wymaga aktualizacji
+K-156,Opole,opolskie,306,firmowy,2019,e-mail,aktywny,6,brak
+K-157,Nysa,opolskie,243,indywidualny,2021,telefon,aktywny,12,brak
+K-158,Brzeg,opolskie,121,indywidualny,2026,e-mail,aktywny,2,wymaga aktualizacji
+K-159,Kędzierzyn-Koźle,opolskie,233,firmowy,2015,formularz,czasowo nieaktywny,12,wymaga aktualizacji
+K-160,Kluczbork,opolskie,194,indywidualny,2018,telefon,aktywny,12,wymaga aktualizacji
+K-161,Opole,opolskie,262,indywidualny,2016,e-mail,czasowo nieaktywny,2,wymaga aktualizacji
+K-162,Nysa,opolskie,240,indywidualny,2024,telefon,aktywny,11,brak
+K-163,Brzeg,opolskie,230,indywidualny,2019,telefon,aktywny,10,brak
+K-164,Kędzierzyn-Koźle,opolskie,130,indywidualny,2025,e-mail,czasowo nieaktywny,4,potwierdzony adres
+K-165,Kluczbork,opolskie,210,indywidualny,2021,telefon,aktywny,10,brak
+K-166,Szczecin,zachodniopomorskie,151,firmowy,2022,formularz,aktywny,8,wymaga aktualizacji
+K-167,Koszalin,zachodniopomorskie,258,indywidualny,2017,e-mail,aktywny,0,brak
+K-168,Stargard,zachodniopomorskie,376,indywidualny,2018,telefon,czasowo nieaktywny,7,brak
+K-169,Świnoujście,zachodniopomorskie,314,firmowy,2026,telefon,aktywny,4,wymaga aktualizacji
+K-170,Kołobrzeg,zachodniopomorskie,81,firmowy,2016,e-mail,aktywny,9,brak
+K-171,Szczecin,zachodniopomorskie,309,indywidualny,2023,telefon,aktywny,9,brak
+K-172,Koszalin,zachodniopomorskie,387,firmowy,2015,telefon,aktywny,3,brak
+K-173,Stargard,zachodniopomorskie,275,indywidualny,2019,formularz,aktywny,11,brak
+K-174,Świnoujście,zachodniopomorskie,270,indywidualny,2026,formularz,czasowo nieaktywny,4,wymaga aktualizacji
+K-175,Kołobrzeg,zachodniopomorskie,350,indywidualny,2025,e-mail,aktywny,8,brak
+K-176,Szczecin,zachodniopomorskie,85,firmowy,2025,formularz,czasowo nieaktywny,12,brak
+K-177,Koszalin,zachodniopomorskie,131,firmowy,2026,formularz,aktywny,1,brak
+K-178,Stargard,zachodniopomorskie,403,indywidualny,2018,telefon,czasowo nieaktywny,8,potwierdzony adres
+K-179,Świnoujście,zachodniopomorskie,180,indywidualny,2015,telefon,aktywny,7,brak
+K-180,Kołobrzeg,zachodniopomorskie,366,firmowy,2026,e-mail,aktywny,0,brak
